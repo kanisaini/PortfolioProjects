@@ -3,15 +3,23 @@
 This repository contains the SuperStore Report, a comprehensive business intelligence project designed using Power BI. The dashboard showcases insights derived from sales, profit, and logistics data, offering a visual and interactive representation of key business metrics.
 ## Key Features
 - **Sales Analysis:**
--- Sales trends by Customer Segment, Product Category, and Province.
--- Year-over-year and monthly sales performance comparison.
--- Sales distribution across Product Containers.
+1. Sales trends by Customer Segment, Product Category, and Province.
+2. Year-over-year and monthly sales performance comparison.
+3. Sales distribution across Product Containers.
 - **Profit Analysis:**
-
-Profit trends by Year, Customer Segment, and Province.
-Insights into the most and least profitable product categories.
+1. Profit trends by Year, Customer Segment, and Province.
+2. Insights into the most and least profitable product categories.
 - **Logistics Insights:**
-
-Shipping costs analyzed by Year, Province, and Ship Mode.
-Order priority distribution and its impact on shipping costs.
-Efficiency analysis of shipping methods.
+1. Shipping costs analyzed by Year, Province, and Ship Mode.
+2. Order priority distribution and its impact on shipping costs.
+3. Efficiency analysis of shipping methods.
+## Insights Derived
+- **Sales Insights:**
+1. The highest sales come from the Technology category, followed by Furniture.
+2. Peak sales are observed during Q4 every year, especially in December.
+- **Profitability Insights:**
+1. Office Supplies generate the highest profit margins, while Furniture shows losses in some subcategories.
+2. Ontario is the most profitable province, while Nunavut contributes the least.
+- **Shipping Insights:**
+1. Small Box containers are most cost-efficient for shipping.
+2. Delivery Truck is the most widely used shipping mode, balancing cost and efficiency.
