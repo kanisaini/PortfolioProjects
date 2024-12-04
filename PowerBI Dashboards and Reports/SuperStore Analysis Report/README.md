@@ -16,6 +16,10 @@ This repository contains the SuperStore Report, a comprehensive business intelli
 ## Dashboard Preview
 ### Sales Dashboard
 ![Sales Dashboard](https://github.com/kanisaini/PortfolioProjects/blob/main/PowerBI%20Dashboards%20and%20Reports/SuperStore%20Analysis%20Report/SalesDashboard.png)
+### Profit Dashboard
+![Profit Dashboard](https://github.com/kanisaini/PortfolioProjects/blob/main/PowerBI%20Dashboards%20and%20Reports/SuperStore%20Analysis%20Report/ProfitDashboard.png)
+### Logistics Dashboard
+![Logistics Dashboard](https://github.com/kanisaini/PortfolioProjects/blob/main/PowerBI%20Dashboards%20and%20Reports/SuperStore%20Analysis%20Report/LogisticsDashboard.png)
 ## Insights Derived
 - **Sales Insights:**
 1. The highest sales come from the Technology category, followed by Furniture.
