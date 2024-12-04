@@ -3,9 +3,9 @@
 This repository contains the SuperStore Report, a comprehensive business intelligence project designed using Power BI. The dashboard showcases insights derived from sales, profit, and logistics data, offering a visual and interactive representation of key business metrics.
 ## Key Features
 - **Sales Analysis:**
-1. Sales trends by Customer Segment, Product Category, and Province.
-2. Year-over-year and monthly sales performance comparison.
-3. Sales distribution across Product Containers.
+  - Sales trends by Customer Segment, Product Category, and Province.
+  - Year-over-year and monthly sales performance comparison.
+  - Sales distribution across Product Containers.
 - **Profit Analysis:**
 1. Profit trends by Year, Customer Segment, and Province.
 2. Insights into the most and least profitable product categories.
