@@ -7,6 +7,7 @@ Welcome to my project repository! This collection showcases various data science
 - **Covid19 Data Analysis**
   
 - **Power BI Reports and Dashboards**
+  - **SuperStore**
   
 ## How to Navigate
 - Each project folder contains its own README.md file with specific details about the project, including data sources, methods used, and results.
