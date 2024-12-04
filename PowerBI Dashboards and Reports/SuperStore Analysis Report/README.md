@@ -22,11 +22,11 @@ This repository contains the SuperStore Report, a comprehensive business intelli
 ![Logistics Dashboard](https://github.com/kanisaini/PortfolioProjects/blob/main/PowerBI%20Dashboards%20and%20Reports/SuperStore%20Analysis%20Report/LogisticsDashboard.png)
 ## Insights Derived
 - **Sales Insights:**
-1. The highest sales come from the Technology category, followed by Furniture.
-2. Peak sales are observed during Q4 every year, especially in December.
+  - The highest sales come from the Technology category, followed by Furniture.
+  - Peak sales are observed during Q4 every year, especially in December.
 - **Profitability Insights:**
-1. Office Supplies generate the highest profit margins, while Furniture shows losses in some subcategories.
-2. Ontario is the most profitable province, while Nunavut contributes the least.
+  - Office Supplies generate the highest profit margins, while Furniture shows losses in some subcategories.
+  - Ontario is the most profitable province, while Nunavut contributes the least.
 - **Shipping Insights:**
-1. Small Box containers are most cost-efficient for shipping.
-2. Delivery Truck is the most widely used shipping mode, balancing cost and efficiency.
+  - Small Box containers are most cost-efficient for shipping.
+  - Delivery Truck is the most widely used shipping mode, balancing cost and efficiency.
