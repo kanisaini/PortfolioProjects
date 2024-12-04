@@ -14,7 +14,8 @@ This repository contains the SuperStore Report, a comprehensive business intelli
   - Order priority distribution and its impact on shipping costs.
   - Efficiency analysis of shipping methods.
 ## Dashboard Preview
-
+### Sales Dashboard
+![Sales Dashboard ((https://github.com/kanisaini/PortfolioProjects/blob/main/PowerBI%20Dashboards%20and%20Reports/SuperStore%20Analysis%20Report/SalesDashboard.png))
 ## Insights Derived
 - **Sales Insights:**
 1. The highest sales come from the Technology category, followed by Furniture.
