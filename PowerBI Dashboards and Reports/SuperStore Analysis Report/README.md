@@ -9,7 +9,7 @@ This repository contains the SuperStore Report, a comprehensive business intelli
 - **Profit Analysis**
   - Profit trends by Year, Customer Segment, and Province.
   - Insights into the most and least profitable product categories.
-- **Logistics Insights:**
+- **Logistics Insights**
   - Shipping costs analyzed by Year, Province, and Ship Mode.
   - Order priority distribution and its impact on shipping costs.
   - Efficiency analysis of shipping methods.
