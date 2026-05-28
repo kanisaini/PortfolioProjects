@@ -5,9 +5,10 @@ This project focuses on enhancing the operational efficiency of logistics fleets
 
 By analyzing vehicle usage patterns, monitoring fleet performance, and exploring alternative fuel strategies, the project delivers actionable insights that improve logistics efficiency and overall operational sustainability.
 
+
 ## 🎯 Project Objectives
-Minimize fuel consumption across logistics fleets
-Improve fleet utilization and operational performance
+* Minimize fuel consumption across logistics fleets
+* Improve fleet utilization and operational performance
 Reduce transportation and maintenance costs
 Enable data-driven decision-making using analytics dashboards
 Support sustainable and environmentally responsible logistics operations
