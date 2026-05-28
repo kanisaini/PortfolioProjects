@@ -14,6 +14,7 @@ By analyzing vehicle usage patterns, monitoring fleet performance, and exploring
 * Support sustainable and environmentally responsible logistics operations
 * Increase efficiency through performance monitoring and reporting automation
 
+
 ## 🔍 Key Focus Areas
 ### Fuel Efficiency Optimization
 
@@ -32,17 +33,17 @@ Developing dashboards and visual reports to support operational insights and str
 Exploring sustainability-focused operational practices and alternative fuel opportunities for long-term environmental benefits.
 
 ## 🛠 Technologies & Tools
-Power BI
-Data Analytics
-Business Intelligence
-Dashboard Development
-Reporting Automation
-Fleet Performance Monitoring
-Operational Data Visualization
+* Power BI
+* Data Analytics
+* Business Intelligence
+* Dashboard Development
+* Reporting Automation
+* Fleet Performance Monitoring
+* Operational Data Visualization
 
 ## 📊 Expected Outcomes
-Improved fuel efficiency and reduced fuel costs
-Better route and fleet utilization
-Enhanced operational visibility through analytics dashboards
-Reduced environmental impact through optimized logistics operations
-Faster and more informed business decisions
+* Improved fuel efficiency and reduced fuel costs
+* Better route and fleet utilization
+* Enhanced operational visibility through analytics dashboards
+* Reduced environmental impact through optimized logistics operations
+* Faster and more informed business decisions
