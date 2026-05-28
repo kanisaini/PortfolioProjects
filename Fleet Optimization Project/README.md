@@ -9,25 +9,25 @@ By analyzing vehicle usage patterns, monitoring fleet performance, and exploring
 ## 🎯 Project Objectives
 * Minimize fuel consumption across logistics fleets
 * Improve fleet utilization and operational performance
-Reduce transportation and maintenance costs
-Enable data-driven decision-making using analytics dashboards
-Support sustainable and environmentally responsible logistics operations
-Increase efficiency through performance monitoring and reporting automation
+* Reduce transportation and maintenance costs
+* Enable data-driven decision-making using analytics dashboards
+* Support sustainable and environmentally responsible logistics operations
+* Increase efficiency through performance monitoring and reporting automation
 
 ## 🔍 Key Focus Areas
-Fuel Efficiency Optimization
+### Fuel Efficiency Optimization
 
 Implementing strategies to improve fuel usage and reduce wastage across transportation operations.
 
-Fleet Analytics & Monitoring
+### Fleet Analytics & Monitoring
 
 Analyzing vehicle usage patterns, operational trends, and fleet performance metrics to identify optimization opportunities.
 
-Business Intelligence & Reporting
+### Business Intelligence & Reporting
 
 Developing dashboards and visual reports to support operational insights and strategic decision-making.
 
-Sustainable Logistics
+### Sustainable Logistics
 
 Exploring sustainability-focused operational practices and alternative fuel opportunities for long-term environmental benefits.
 
