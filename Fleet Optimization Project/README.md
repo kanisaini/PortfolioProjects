@@ -16,20 +16,16 @@ By analyzing vehicle usage patterns, monitoring fleet performance, and exploring
 
 
 ## 🔍 Key Focus Areas
-### Fuel Efficiency Optimization
-
+#### Fuel Efficiency Optimization
 Implementing strategies to improve fuel usage and reduce wastage across transportation operations.
 
-### Fleet Analytics & Monitoring
-
+#### Fleet Analytics & Monitoring
 Analyzing vehicle usage patterns, operational trends, and fleet performance metrics to identify optimization opportunities.
 
-### Business Intelligence & Reporting
-
+#### Business Intelligence & Reporting
 Developing dashboards and visual reports to support operational insights and strategic decision-making.
 
-### Sustainable Logistics
-
+#### Sustainable Logistics
 Exploring sustainability-focused operational practices and alternative fuel opportunities for long-term environmental benefits.
 
 ## 🛠 Technologies & Tools
