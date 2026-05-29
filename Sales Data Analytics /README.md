@@ -12,3 +12,10 @@ Data Migration to the Cloud is one of the most common scenarios the Data Enginee
 * Data Transformation
 * Data Analytics and Dashboard Reporting
 * Data Security and Governance
+
+## Prerequisites:
+* Microsoft SQL Server Managment System (SSMS)
+* Azure Subscription (Azure Data Lake Storage Gen2, Azure Data Factory, Azure Key Vault, Azure Databricks, Azure Synapse Analytics, Microsoft Entra ID)
+* Microsoft Power BI
+* Set up "AdventureWorksLT2017" Database with credentials 'usr1'. Set up the same credentials as Secrets in Azure Key Vault
+The Database used for this project demonstration is: AdventureWorksLT2017 Sales Database []
